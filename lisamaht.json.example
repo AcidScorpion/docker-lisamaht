@@ -1,0 +1,16 @@
+{
+    "remote_host": "www.telia.ee",
+    "dst_nat_ip": "<str: Destination NAT IP>",
+    "site_lisamaht": "/lisamaht",
+    "site_api_info": "/mobsales-redirect-frontend/api/info/usage",
+    "site_api_add":"/mobsales-redirect-frontend/api/topup",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0",
+    "order_id":{
+        "1": 8785,
+        "5": 8386,
+        "15": 8385
+    },
+    "order_amount": "<str: 1,5 or 15>",
+    "unusedData_min": <int: Minimun unused data>,
+    "log_file": "lisamaht.log"
+}

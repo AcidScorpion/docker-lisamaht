@@ -1,0 +1,9 @@
+*.*
+/*
+
+!Dockerfile
+!.gitignore
+!lisamaht.json.example
+!README.md
+!requirements.txt
+!*.py
